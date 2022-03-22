@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -37,7 +35,6 @@ void cipherEncryption(){
     cout << "Hexa:" << encrypHexa << endl;
 
 }
-
 
 //Decryption function
 void cipherDecryption() {
